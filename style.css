@@ -1,14 +1,14 @@
 body {
   margin: 0;
   background-color: #696969;
-  font-size: 25px;
+
 }
 a {
   color:#FFFAFA;
   text-decoration: none;
 }
 h1 {
-  font-size: 70px;
+  font-size: 95px;
   text-align: center;
   border-bottom: 10px solid gray;
   margin: 0;
@@ -16,11 +16,13 @@ h1 {
 }
 h2 {
   color:#A9A9A9;
+  font-size: 50px;
 }
 ol {
   color:#FFFAFA;
+  font-size: 35px;
   border-right: 10px solid gray;
-  width: 120px;
+  width: 155px;
   margin: 0;
   padding: 20px;
 }
@@ -32,7 +34,7 @@ ol {
   padding-left: 40px;
 }
 #article {
-  padding-left: 50px;
+  padding-left: 100px;
 }
 @media(max-width: 640px){
   #grid {
