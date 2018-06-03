@@ -34,7 +34,7 @@ ol {
 #article {
   padding-left: 50px;
 }
-@media(max-width:320px){
+@media(max-width: 640px){
   #grid {
     display: block;
   }
