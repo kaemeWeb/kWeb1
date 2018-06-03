@@ -36,7 +36,7 @@ ol {
 #article {
   padding-left: 100px;
 }
-@media(max-height: 640px){
+@media(min-width: 320px){
   #grid {
     display: block;
   }
